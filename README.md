@@ -4,7 +4,7 @@ The software is a command-line menu-driven application that allows the user to i
 
 To use the program, the user needs to provide the appropriate inputs according to the menu prompt displayed on the command-line interface. The user can create a row by providing name, age, and email, update a row by providing the row ID and the new name, age, and email, delete a row by providing the row ID, and list all the rows from the database. The program displays the results on the command-line interface.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/3_aahpwQ-FM)
 
 
 # Cloud Database
