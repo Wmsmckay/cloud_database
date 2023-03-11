@@ -6,6 +6,7 @@ To use the program, the user needs to provide the appropriate inputs according t
 
 [Software Demo Video](http://youtube.link.goes.here)
 
+
 # Cloud Database
 
 The code uses the Firebase Realtime Database as the cloud database. Firebase Realtime Database is a cloud-hosted NoSQL database that stores data in JSON format and synchronizes data in real-time between connected clients.
